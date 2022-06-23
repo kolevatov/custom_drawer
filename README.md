@@ -2,4 +2,4 @@
 
 Custom drawer built on Flutter
 
-<img src="./custom_drawer.gif" alt="custom drawer" width="500" height="600">
+<img src="./custom_drawer.gif" alt="custom drawer" width="500">
